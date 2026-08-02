@@ -1,0 +1,22 @@
+# NEVER commit secrets
+system/discord/config.json
+system/discord/
+**/discord.json
+**/.env
+*.token
+
+# Build outputs
+bin/
+obj/
+boot/
+publish/
+dist/
+
+# .NET
+*.user
+*.suo
+*.userosscache
+
+# Logs
+*.log
+system/logs/
