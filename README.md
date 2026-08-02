@@ -1,6 +1,6 @@
 # GoStudios
 
-> Building **GoConsoleOS** — a fast, modern, controller-friendly gaming console shell for Windows.
+> Building **GoConsoleOS™** — a fast, modern, controller-friendly gaming console shell for Windows.
 
 ![Banner 1](assets/banners/banner-1.svg)
 
@@ -8,7 +8,7 @@
 
 ## About
 
-GoStudios makes **GoConsoleOS**, an all-in-one gaming console experience for PC. It turns your Windows machine into a living-room console with a gamepad-driven interface, curated store, achievements, friends, and more.
+GoStudios makes **GoConsoleOS™**, an all-in-one gaming console experience for PC. It turns your Windows machine into a living-room console with a gamepad-driven interface, curated store, achievements, friends, and more.
 
 ## Highlights
 
@@ -21,6 +21,16 @@ GoStudios makes **GoConsoleOS**, an all-in-one gaming console experience for PC.
 | 💾 **Backup & Restore** | Profiles, saves and screenshots, safe on demand |
 | 🌙 **Night Mode** | Dim the whole experience |
 | 🎨 **Themes & Accents** | Pick your colors and wallpapers |
+
+## Supported CPUs
+
+GoConsoleOS auto-detects your hardware and shows your tier in Settings → About:
+
+| Tier | Level |
+|------|-------|
+| Intel Core i5 / i7 / i9 | Good / Great / Excellent |
+| AMD Ryzen 3 / 5 / 7 / 9 | Entry / Good / Great / Excellent |
+| Other Intel & AMD | General gaming ready |
 
 ## The Collection
 
@@ -78,6 +88,12 @@ Browse the GoConsoleOS asset library — 50 banners, 50 icons and 50 logos, all 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-0C54C2?style=for-the-badge&logo=windows&logoColor=white)
 ![XAML](https://img.shields.io/badge/XAML-0078D6?style=for-the-badge&logo=xaml&logoColor=white)
+![Intel](https://img.shields.io/badge/Intel-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![AMD](https://img.shields.io/badge/AMD-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 
 ---
-*© 2026 GoStudios. All assets generated for GoConsoleOS.*
+
+**GoConsoleOS™** and the **GoConsoleOS logo** are trademarks of **GoStudios**.
+Intel Core i5/i7/i9 are trademarks of Intel Corporation. AMD Ryzen is a trademark of Advanced Micro Devices, Inc.
+
+**Copyright © 2026 GoStudios. All rights reserved.**
