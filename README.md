@@ -10,6 +10,26 @@
 
 GoStudios makes **GoConsoleOS™**, an all-in-one gaming console experience for PC. It turns your Windows machine into a living-room console with a gamepad-driven interface, curated store, achievements, friends, and more.
 
+
+## Android companion
+
+GoConsoleOS now reaches your phone and TV with **GoConsoleOS Android**:
+
+| App | What it does |
+|-----|--------------|
+| **Portable USB** | Find and launch your GoConsoleOS USB console from Android and Google TV |
+| **GoConsoleOS Link** | Steam-Link-style LAN streaming to browse and launch the host's library |
+| **USB Health** | Local + host SMART reports for portable USB drives (Android 13/16) |
+| **GoConsoleOS Cast** | Screen-cast your device to the host/TV over the same transport |
+
+See [`GoStudios-Real/GoConsoleOS-Android`](https://github.com/GoStudios-Real/GoConsoleOS-Android).
+
+## v1.7 highlights
+
+- On-screen scroll indicator
+- Controller selection screen (Xbox / PS5 / Switch 2 / Generic)
+- USB Device Health for portable USB consoles
+- On-screen keyboard copy and paste
 ## Highlights
 
 | Area | What you get |
@@ -79,8 +99,7 @@ Browse the GoConsoleOS asset library — 50 banners, 50 icons and 50 logos, all 
 
 ## Where to find us
 
-- 🕹️ **GoConsoleOS repo** → [`GoStudios-Real/GoConsoleOS`](https://github.com/GoStudios-Real/GoConsoleOS)
-- ⭐ Star the repos to support the project!
+- 🕹️ - ⭐ Star the repos to support the project!
 
 ## Stack
 
@@ -97,3 +116,9 @@ Browse the GoConsoleOS asset library — 50 banners, 50 icons and 50 logos, all 
 Intel Core i5/i7/i9 are trademarks of Intel Corporation. AMD Ryzen is a trademark of Advanced Micro Devices, Inc.
 
 **Copyright © 2026 GoStudios. All rights reserved.**
+
+## Where to find us
+
+- **GoConsoleOS** - https://github.com/GoStudios-Real/GoConsoleOS
+- **GoConsoleOS Android** - https://github.com/GoStudios-Real/GoConsoleOS-Android
+- Star the repos to support the project!
