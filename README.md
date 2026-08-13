@@ -2,9 +2,10 @@
 
 > Building **GoConsoleOS™** — a fast, modern, controller-friendly gaming console shell for Windows.
 
-![Banner 1](assets/banners/banner-1.svg)
-
-![Banner 2](assets/banners/banner-2.svg)
+<p align="center">
+  <img src="assets/banners/banner-1.svg" alt="GoConsoleOS" width="100%" />
+  <img src="assets/banners/banner-2.svg" alt="GoConsoleOS" width="100%" />
+</p>
 
 ## About
 
@@ -99,7 +100,12 @@ Browse the GoConsoleOS asset library — 50 banners, 50 icons and 50 logos, all 
 
 ## Where to find us
 
-- 🕹️ - ⭐ Star the repos to support the project!
+- 🕹️ **GoConsoleOS** — <https://github.com/GoStudios-Real/GoConsoleOS>
+- 🤖 **GoConsoleOS Android** — <https://github.com/GoStudios-Real/GoConsoleOS-Android>
+- 🎨 **GoConsoleOS Theme** — <https://github.com/GoStudios-Real/GoConsoleOS-Theme>
+- 🌐 **GoConsoleOS Web** — <https://github.com/GoStudios-Real/GoConsoleOS-Web>
+- ✉️ **GoConsoleMail** — <https://github.com/GoStudios-Real/GoConsoleMail>
+- ⭐ Star the repos to support the project!
 
 ## Stack
 
@@ -116,9 +122,3 @@ Browse the GoConsoleOS asset library — 50 banners, 50 icons and 50 logos, all 
 Intel Core i5/i7/i9 are trademarks of Intel Corporation. AMD Ryzen is a trademark of Advanced Micro Devices, Inc.
 
 **Copyright © 2026 GoStudios. All rights reserved.**
-
-## Where to find us
-
-- **GoConsoleOS** - https://github.com/GoStudios-Real/GoConsoleOS
-- **GoConsoleOS Android** - https://github.com/GoStudios-Real/GoConsoleOS-Android
-- Star the repos to support the project!
