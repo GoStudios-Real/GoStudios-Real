@@ -122,3 +122,11 @@ Browse the GoConsoleOS asset library — 50 banners, 50 icons and 50 logos, all 
 Intel Core i5/i7/i9 are trademarks of Intel Corporation. AMD Ryzen is a trademark of Advanced Micro Devices, Inc.
 
 **Copyright © 2026 GoStudios. All rights reserved.**
+
+
+---
+
+## OpenCode
+
+This repository is maintained with [OpenCode](https://opencode.ai).
+Hub: https://gostudios-real.github.io/
